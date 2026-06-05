@@ -1,0 +1,28 @@
+INTRODUCTION:
+
+Exploratory Data Analysis (EDA) is the process of analyzing datasets to understand their main characteristics using statistical methods and visualizations. It helps in identifying patterns, trends, relationships, and anomalies in the data.
+
+In this project, EDA is performed on the Titanic dataset to understand factors affecting passenger survival.
+
+
+DATASET OVERVIEW:
+
+The dataset contains information about Titanic passengers such as:
+
+Age
+Gender
+Ticket Fare
+Passenger Class
+Survival Status
+
+Total records: 891 passengers
+
+DATA CLEANING:
+
+Missing values in Age column were filled using mean value
+Data types were checked using .info()
+Statistical summary was analyzed using .describe()
+
+CONCLUSION:
+
+EDA helped in understanding the dataset clearly by revealing patterns, relationships, and trends. It is an important step before building any machine learning model, as it improves data understanding and decision-making.s
